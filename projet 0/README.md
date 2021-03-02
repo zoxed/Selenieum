@@ -8,9 +8,6 @@ download: https://dotnet.microsoft.com/download
 Open in any edition of Visual Studio or Visual Studio Code
 
 
-https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras
-
-dotnet, webdriver, saucelabs set up https://github.com/saucelabs-training/demo-csharp/tree/master/SauceExamples
 
 
 
