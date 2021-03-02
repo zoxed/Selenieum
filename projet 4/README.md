@@ -1,5 +1,5 @@
 # dotnet_selenium_lessonfour
-## Advanced HTML element selection and manipulation
+## Advanced HTML element selection and manipulation.
 
 ### Partial Link Text
 * Make changes to CreditCardApplicationShould.cs file
